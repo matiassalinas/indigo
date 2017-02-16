@@ -1,22 +1,22 @@
 # main text of home
-name: Matías Salinas Soto
-bio: Made in Chile
+name: John Doe
+bio: A Man who travels the world eating noodles
 
 # twitter summary info
-description: Blog con contenido relacionado a la informática.
+description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://avatars0.githubusercontent.com/u/18743633?v=3&s=460
+external-image: false
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://matiassalinas.github.io/
+url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,29 +34,29 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/MatiasDanielSalinasSoto
-# twitter: mytwitter
+facebook: myfacebook
+twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/matiassalinas
+github: mygithub
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+medium: medium
 # vimeo: myvimeo
-email: matiassalinas@correo.ugr.cl
+email: myemail@gmail.com
 
 authors:
-    matiassalinas:
-        name: Matías Salinas
-        bio: Made in Chile
-        external-image: true
-        picture: https://avatars0.githubusercontent.com/u/18743633?v=3&s=460
-        #twitter: johndoe
+    johndoe:
+        name: John Doe
+        bio: A Man who travels the world eating noodles
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: johndoe
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
@@ -81,7 +81,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: false
+read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
