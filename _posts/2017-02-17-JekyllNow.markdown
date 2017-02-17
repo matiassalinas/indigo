@@ -8,7 +8,7 @@ tag:
 - Tutorial
 star: false
 category: blog
-author: Matías Salinas
+author: matiassalinas
 description: Blog creado con Jekyll
 ---
 
@@ -17,17 +17,15 @@ description: Blog creado con Jekyll
 Hola!
 Bienvenidos a mi nuevo blog. Es primera vez que realizo algo similar, pero intentaré cumplir con las espectativas que se tengan respecto a este sitio web. 
 
-La creación de este blog, es debido a un requerimiento de la asignatura "Programación de Dispositivos Móviles" de la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación, Universidad de Granada, España. Esta asignatura está siendo impartida por el profesor Marcelino Cabrera Cuevas.
-
 Mantendré actualizado este sitio con algunas informaciones que son de interés para todos los amantes de la informática, especificamente de la programación de dispositivos móviles.
 
 ---
 
 ## Jekyll Now
 
-Bueno, al enterarme que durante esta asignatura debía tener un blog, en el cual subir información relacionada, mi primera duda fue en que plataforma crearlo. Mis dos alternativas eran: Blogger y Wordpress, de las cuales, solo contaba con experiencia en esta última, desarrollando sitios webs. Revisando las diferencias entre estas dos, llegué a un sitio en que, además de estas dos plataformas, mencionaban una nueva: [Jekyll](https://jekyllrb.com/), la cual podia ser utilizada en mi github personal.
+Antes de comenzar con este blog, mi primera duda fue en que plataforma crearlo. Mis dos alternativas eran: Blogger y Wordpress, de las cuales solo contaba con experiencia en esta última, desarrollando sitios webs. Revisando las diferencias entre estas dos, llegué a un sitio en que, además de estas dos plataformas, mencionaban una nueva: [Jekyll](https://jekyllrb.com/), la cual podia ser utilizada en mi github personal.
 
-Fue así como comencé a investigar esta nueva manera de crear blogs (en realidad, sitios web en general), y decidí crear el mio. Al principio pensé que sería algo complicado, pero encontré [Jekyll Now](http://www.jekyllnow.com/), lo cual facilitó la instalación de este generador de sitios webs.
+Fue así como comencé a investigar esta nueva manera de crear blogs (en realidad, sitios web en general), y decidí crear el mio. Al principio pensé que sería algo complicado, pero encontré [Jekyll Now](http://www.jekyllnow.com/), lo cual facilitó la instalación de este generador de sitios webs (no es necesario descargar nada en tu computador).
 
 Para la instalación, seguí paso a paso las instrucciones del siguiente enlace:
 
