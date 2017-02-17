@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.picture }})
+![Profile Image]({{ site.url }}/images/perfil.jpg)
 <style type="text/css">
   p {
       text-align: justify;
