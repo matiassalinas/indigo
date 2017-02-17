@@ -32,9 +32,7 @@ Para la instalación, seguí paso a paso las instrucciones del siguiente enlace:
 [https://devexperto.com/blog-gratis-github-jekyll/](https://devexperto.com/blog-gratis-github-jekyll/)
 Última vez visitado: Miércoles 15 de Febrero, 16:26.
 
-Este tutorial explica paso a paso lo que debe realizarse, <span class="evidence">pero ojo, el video es de una versión anterior</span>, por lo que al modificar el archivo '_config.yml' hay que revisar bien las lineas de código que son modificadas. También, debes tomar en cuenta que, a la hora de subir un nuevo post, el formato de la fecha es año-mes-dia, si te equivocas el sitio no se actualizará!
-
-Actualmente estoy utilizando un theme [Indigo Theme](https://github.com/sergiokopplin/indigo), pero puedes encontrar más googleando por ahí, hay muchos temas disponibles en github para poder utilizar en tu sitio. 
+Este tutorial explica paso a paso lo que debe realizarse, <span class="evidence">pero ojo, el video es de una versión anterior</span>, por lo que al modificar el archivo '_config.yml' hay que revisar bien las lineas de código que son modificadas. También, debes tomar en cuenta que, a la hora de subir un nuevo post, el formato de la fecha es año-mes-dia, si te equivocas el sitio no se actualizará! 
 
 Cualquier duda, no duden en preguntar.
 
