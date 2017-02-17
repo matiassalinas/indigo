@@ -1,5 +1,5 @@
 ---
-title: "Jekyll Now"
+title: "Nuevo blog utilizando Jekyll Now"
 layout: post
 date: 2017-02-17 22:44
 image: /assets/images/markdown.jpg
