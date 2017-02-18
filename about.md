@@ -71,7 +71,7 @@ layout: page
     <h2>Antecedentes Académicos</h2>
     <ul>
         <li><strong>[2014-Actualidad]</strong> Miembro del grupo de Extensión de la Escuela de Ingeniería Informática</li>
-        <li><strong>[2014-2016]</strong> Ayudantía Fundamentos de Algorítmos, para alumnos de Ingeniería Civil en Informática</li>
+        <li><strong>[2014-2016]</strong> Ayudantía Fundamentos de Programación, para alumnos de Ingeniería Civil en Informática</li>
         <li><strong>[2016]</strong> Ayudantía Fundamentos de Algorítmos, para alumnos de Ingeniería en Ejecución Informática</li>
         <li><strong>[2015]</strong> Tutor en Proyecto PM UCV1303, reforzamiento académico para la asignatura "Fundamentos de Programación", realizado en conjunto a la Unidad de Apoyo al Aprendizaje de la Dirección de Asuntos Estudiantiles de la Pontificia Universidad Católica de Valparaíso</li>
         <li><strong>[2015]</strong> Ayudantía Fundamentos de Programación, para alumnos de Ingeniería en Ejecución Informática</li>
