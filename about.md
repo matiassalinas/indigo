@@ -21,21 +21,21 @@ layout: page
     
     <hr>
     
-    <h2>Asignaturas Actuales</h2>
-    <ul>
-        <li>Inteligencia Artificial</li>
-        <li>Sistemas Cooperativos y Gestión de Contenidos</li>
-        <li>Programación de Dispositivos Móviles</li>
-    </ul>
-    
-    <hr>
-    
     <h2>Estudios</h2>
     <ul>
         <li><strong>2017:</strong> Intercambio Universitario, Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación, Universidad de Granada, España</li>
         <li><strong>2016-Actualidad:</strong> Estudios de postgrado, Magíster en Ingeniería Informática, Pontificia Universidad Católica de Valparaíso, Chile</li>
         <li><strong>2013-Actualidad:</strong> Estudios de pregrado, Ingeniería Civil en Informática, Pontificia Universidad Católica de Valparaíso, Chile</li>
         <li><strong>2000-2012:</strong> Enseñanza básica y media, Colegio Seminario San Rafael de Valparaíso, Chile</li>
+    </ul>
+    
+    <hr>
+    
+    <h2>Asignaturas Actuales</h2>
+    <ul>
+        <li>Inteligencia Artificial</li>
+        <li>Sistemas Cooperativos y Gestión de Contenidos</li>
+        <li>Programación de Dispositivos Móviles</li>
     </ul>
     
     <hr>
