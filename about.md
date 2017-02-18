@@ -21,6 +21,15 @@ layout: page
     
     <hr>
     
+    <h2>Asignaturas Actuales</h2>
+    <ul>
+        <li>Inteligencia Artificial</li>
+        <li>Sistemas Cooperativos y Gestión de Contenidos</li>
+        <li>Programación de Dispositivos Móviles</li>
+    </ul>
+    
+    <hr>
+    
     <h2>Estudios</h2>
     <ul>
         <li><strong>2017:</strong> Intercambio Universitario, Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación, Universidad de Granada, España</li>
