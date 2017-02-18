@@ -57,7 +57,7 @@ layout: page
                 <li><strong>[Agosto-Diciembre]</strong> Creación de aplicación móvil ChasquillApp, Taller de Ingeniería de Software</li>
                 <li><strong>[Marzo-Diciembre]</strong> Ayudante del Proyecto de Monitoreo y Retroalimentación Escalable para Cursos Numerosos de Programación, Unidad de Mejoramiento de la Docencia Universitaria, Pontificia Universidad Católica de Valparaíso</li>
                 <li><strong>[Octubre]</strong> Monitor XLII Conferencia Latinoamericana de Informática, CLEI 2016</li>
-                <li><strong>[Julio-Octubre]</strong> Desarrollo de Formularios de inscripción, Invoice, y Registro de Papers, XLII Conferencia Latinoamericana de Informática, CLEI 2016</li>
+                <li><strong>[Julio-Octubre]</strong> Desarrollo de Formularios de Inscripción, Invoice, y registro de Papers, XLII Conferencia Latinoamericana de Informática, CLEI 2016</li>
                 <li><strong>[Septiembre]</strong> Creación Página Web Zenix, Zenix Telecomunicaciones</li>
                 <li><strong>[Agosto-Septiembre]</strong> CMS para aplicación móvil PAR Explora, Explora</li>
                 <li><strong>[Junio-Agosto]</strong> Ayudante en Investigación y Desarrollo en el proyecto "Plataforma de Idiomas Adaptable, con uso de Inteligencias Múltiples y Agentes Inteligentes", Unidad de Asistencia Técnica de la Escuela de Ingeniería Informática, Pontificia Universidad Católica de Valaraíso</li>
