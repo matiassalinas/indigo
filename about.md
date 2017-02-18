@@ -3,6 +3,11 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/assets/perfil.jpg)
+<style>
+    h2{
+        text-align:center;
+    }
+</style>
 <div style="text-align: justify;">
     <h2>Información Personal</h2>
     <ul>
