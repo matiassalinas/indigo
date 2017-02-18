@@ -12,7 +12,7 @@ author: matiassalinas
 description: Blog creado con Jekyll
 ---
 
-## Bienvenida:
+## Bienvenida
 
 Hola!
 Bienvenidos a mi nuevo blog. Es primera vez que realizo algo similar, pero intentaré cumplir con las espectativas que se tengan respecto a este sitio web. 

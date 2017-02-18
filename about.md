@@ -87,4 +87,11 @@ layout: page
         <li><strong>[2015]</strong> Tutor en Proyecto PM UCV1303, reforzamiento académico para la asignatura "Fundamentos de Programación", realizado en conjunto a la Unidad de Apoyo al Aprendizaje de la Dirección de Asuntos Estudiantiles de la Pontificia Universidad Católica de Valparaíso</li>
         <li><strong>[2015]</strong> Ayudantía Fundamentos de Programación, para alumnos de Ingeniería en Ejecución Informática</li>
     </ul>
+    
+    <hr>
+    
+    <h2>Distinciones</h2>
+    <ul>
+        <li><strong>[2016]</strong> Beca Completa para realizar estudios de postgrado, Escuela de Ingeniería Informática, Pontificia Universidad Católica de Valparaíso</li>
+    </ul>
 </div>
