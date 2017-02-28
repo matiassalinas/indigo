@@ -19,13 +19,13 @@ El lanzamiento del móvil Nokia 3310 se llevó a cabo en Septiembre del 2000, y 
 
 La característica principal de este móvil es la duración de su bateria, y que solo sirve para enviar y recibir llamadas. Con esto, ya no necesitarás cargar tu móvil cada vez que llegas a casa, ni quedar descomunicado en algún viaje de fin de semana. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3hlhjGMWpYg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hlhjGMWpYg" frameborder="0" allowfullscreen></iframe>
 
 ## Pero... ¿que lo hace tan especial?
 
 Lo especial de este móvil es la resistencia que siempre le ha caracterizado. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DYP6y0Lgv3s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DYP6y0Lgv3s" frameborder="0" allowfullscreen></iframe>
 
 En este video se puede apreciar como el móvil es lanzado desde 900 pies y aún sigue funcionando... increible no?
 
