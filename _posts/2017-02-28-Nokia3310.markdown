@@ -1,0 +1,36 @@
+---
+title: "El regreso del indestructible Nokia 3310"
+layout: post
+date: 2017-02-28 14:30
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Actualidad
+- Dispositivos Móviles
+star: false
+category: blog
+author: matiassalinas
+description: El regreso del famoso Nokia 3310
+---
+
+## Volviendo al año 2000
+
+El lanzamiento del móvil Nokia 3310 se llevó a cabo en Septiembre del 2000, y hoy regresa al mercado con un diseño remodelado. Si bien este móvil no busca ser un rival de peso para los smartphone modernos, su precio de 49 euros lo hace bastante accesible a la mayoria de los bolsillos de los usuarios.
+
+La característica principal de este móvil es la duración de su bateria, y que solo sirve para enviar y recibir llamadas. Con esto, ya no necesitarás cargar tu móvil cada vez que llegas a casa, ni quedar descomunicado en algún viaje de fin de semana. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3hlhjGMWpYg" frameborder="0" allowfullscreen></iframe>
+
+## Pero... ¿que lo hace tan especial?
+
+Lo especial de este móvil es la resistencia que siempre le ha caracterizado. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DYP6y0Lgv3s" frameborder="0" allowfullscreen></iframe>
+
+En este video se puede apreciar como el móvil es lanzado desde 900 pies y aún sigue funcionando... increible no?
+
+
+---
+
+<i>Fuente: [ELMUNDO.ES](http://www.elmundo.es/tecnologia/2017/02/27/58b40a2922601d647c8b45cf.html); Última vez visitado: Martes 28 de Febrero, 2017</i><BR>
+<i>Fuente: [ELPAIS.COM](http://elpais.com/eventos/2017/02/27/mwc/1488183303_787373.html); Última vez visitado: Martes 28 de Febrero, 2017</i>
