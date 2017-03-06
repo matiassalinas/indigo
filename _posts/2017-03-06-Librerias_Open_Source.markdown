@@ -22,10 +22,8 @@ description: Librerias opensource para programar
 Navegando por internet, especificamente en grupos de Facebook relacionados a la informática y la programación, uno siempre encuentra algo nuevo, que puede llegar a ser de utilidad en algún momento.
 
 Hoy he encontrado [Square Open Source](http://square.github.io/), en donde podrán visualizar una serie de librerias que pueden ser utilizadas a la hora de desarrollar alguna aplicación. Dentro de las cuales, recomiendan completamente las librerias: 
-<ul>
-    <li>[Picasso](http://square.github.io/picasso/)</li>
-    <li>[Retrofit](http://square.github.io/retrofit/)</li>
-</ul>
+* [Picasso](http://square.github.io/picasso/)</li>
+* [Retrofit](http://square.github.io/retrofit/)</li>
 Las cuales se dice que son excelentes bibliotecas para contectar API's o descargar imágenes.
 
 Pronto le echaré una mirada más a fondo, y les contaré qué tal estas librerias.
