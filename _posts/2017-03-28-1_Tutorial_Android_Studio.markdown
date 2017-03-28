@@ -31,9 +31,11 @@ Nos aparecerá una pantalla de configuraciones iniciales de nuestro proyecto:
 
 A continuación tendremos que especificar en el tipo de dispositivo que queremos trabajar. En mi caso, para teléfonos y tablets.
 
-Debemos especificar el SDK Mínimo en el cual nuestra aplicación podrá ser utilizada. En esta opción debemos tener en cuenta cuando esperamos que nuestra aplicación termine de ser desarrollada, ya que si ésta será lanzada en mucho tiempo más, es recomendable elegir versiones de Android más actualizadas. Para elegir correctamente qué opción tomar, demos click a "Help me choose".
+Debemos especificar el SDK Mínimo en el cual nuestra aplicación podrá ser utilizada. En esta opción debemos tener en cuenta cuando esperamos que nuestra aplicación termine de ser desarrollada, ya que si ésta será lanzada en mucho tiempo más, es recomendable elegir versiones de Android más actualizadas.
 
 ![Markdowm Image][3]{: class="bigger-image" }
+
+Para elegir correctamente qué opción tomar, demos click a "Help me choose".
 
 Aparecerán estadísticas según la versión de Android que se utilizan en la actualidad, y nos servirá para elegir correctamente una versión de Android para nuestra aplicación. En mi caso he elegido como SDK mínimo la versión 5.0 Lollipop, ya que un 40.5% de los usuarios podría tener acceso a mi aplicación actualmente. Como espero lanzar mi aplicación en un par de meses más, encuentro que es una opción razonable para elegir.
 
