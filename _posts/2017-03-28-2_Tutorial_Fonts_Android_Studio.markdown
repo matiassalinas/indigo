@@ -26,7 +26,7 @@ El siguiente tutorial fue trabajado en Android Studio 2.3, utilizando el Sistema
         <p>Lo primero que se debe hacer, es crear unas carpetas dentro de 'app', y colocar nuestra font como se muestra en la siguiente imágen.</p>
     </div>
     <div class="toright">
-        <img class="image" src=[1] alt="Image_1">
+        <img class="image" src="[1]" alt="Image_1">
     </div>
 </div>
 
@@ -48,11 +48,9 @@ La segunda, obtiene el font que agregamos en app>assets>fonts.
 
 Finalmente, se le asigna al <i>TextView</i> la fuente que asignamos en la variable <i>face</i>.
 
-![Markdowm Image][3]{: class="bigger-image" }
-
 <div class="side-by-side">
    <div class="toleft">
-        <img class="image" src=[3] alt="Image_3">
+        <img class="image" src="[3]" alt="Image_3">
     </div>
     <div class="toright">
         <p>Probamos nuestra aplicación utilizando el emulador o nuestro celular, y nos mostrará la fuente que hemos agregado.</p>
