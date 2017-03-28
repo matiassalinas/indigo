@@ -55,7 +55,7 @@ Con esto ya tenemos nuestro proyecto creado, y es posible comenzar a desarrollar
 
 Si tienes alguna duda respecto a este tutorial, no dudes en consultar en los comentarios. 
 
-Además, no olvides pasearte de vez en cuando por el sitio de desarrolladores de Android, donde podrás encontrar toda la documentación respecto al desarrollo de estos dispositivos.
+Además, no olvides pasearte de vez en cuando por el sitio de [Desarrolladores de Android](https://developer.android.com/index.html), donde podrás encontrar toda la documentación respecto al desarrollo de estos dispositivos.
 
 Nos vemos pronto!
 
