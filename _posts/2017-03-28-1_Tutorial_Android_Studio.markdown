@@ -20,7 +20,7 @@ El siguiente tutorial fue trabajado en Android Studio 2.3, utilizando el Sistema
 
 Para comenzar a desarrollar nuestra aplicación para dispositivos android, lo que debemos realizar primero es crear un nuevo proyecto.
 
-![Markdowm Image][{{ site.url }}/assets/images/Tutorial_1/image_1.png]{: class="bigger-image" }
+![Markdowm Image][1]{: class="bigger-image" }
 
 Nos aparecerá una pantalla de configuraciones iniciales de nuestro proyecto:
 * Application name: en éste campo debemos colocar el nombre de nuestra aplicación. Pueden colocar el nombre que ustedes deseen, pero recomiendo siempre evitar los espacios o caracteres que puedan tener algún problema en el futuro ('ñ','á', etc.).
@@ -59,3 +59,5 @@ Nos vemos pronto!
 
 
 ---
+
+[1]: {{ site.url }}/assets/images/Tutorial_1/image_1.png;
