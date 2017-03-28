@@ -10,11 +10,12 @@ tag:
 - Android Studio
 - Tutorial
 star: false
+projects: true
 category: project
 author: matiassalinas
 description: Creando un nuevo proyecto en Android Studio
 ---
-
+blabla
 El siguiente tutorial fue trabajado en Android Studio 2.3, utilizando el Sistema Operativo OS X El Capitán, versión 10.11.6.
 
 Para comenzar a desarrollar nuestra aplicación para dispositivos android, lo que debemos realizar primero es crear un nuevo proyecto.
