@@ -19,20 +19,20 @@ El siguiente tutorial fue trabajado en Android Studio 2.3, utilizando el Sistema
 
 Para comenzar a desarrollar nuestra aplicación para dispositivos android, lo que debemos realizar primero es crear un nuevo proyecto.
 
-![Markdowm Image][/assets/images/Tutorial_1/image_1]{: class="bigger-image" }
+![Markdowm Image][{{ site.baseurl }}/assets/images/Tutorial_1/image_1]{: class="bigger-image" }
 
 Nos aparecerá una pantalla de configuraciones iniciales de nuestro proyecto:
 * Application name: en éste campo debemos colocar el nombre de nuestra aplicación. Pueden colocar el nombre que ustedes deseen, pero recomiendo siempre evitar los espacios o caracteres que puedan tener algún problema en el futuro ('ñ','á', etc.).
 * Company Domain: acá pueden colocar el nombre que ustedes deseen, en mi caso he colocado mi página de github.
 * Project Location: directorio en donde se almacenarán los archivos de nuestro proyecto. Como dije anteriormente, eviten utilizar rutas que contengan espacios o caracteres raros (ya he tenido más de algún problema por tener alguna carpeta "Matías" o con el nombre de mi disco duro secundario "Macintosh HD", en el primero dando problemas por la tílde, y en el segundo caso por el espacio).
 
-![Markdowm Image][/assets/images/Tutorial_1/image_2]{: class="bigger-image" }
+![Markdowm Image][{{ site.baseurl }}/assets/images/Tutorial_1/image_2]{: class="bigger-image" }
 
 A continuación tendremos que especificar en el tipo de dispositivo que queremos trabajar. En mi caso, para teléfonos y tablets.
 
 Debemos especificar el SDK Mínimo en el cual nuestra aplicación podrá ser utilizada. En esta opción debemos tener en cuenta cuando esperamos que nuestra aplicación termine de ser desarrollada, ya que si ésta será lanzada en mucho tiempo más, es recomendable elegir versiones de Android más actualizadas. Para elegir correctamente qué opción tomar, demos click a "Help me choose".
 
-![Markdowm Image][/assets/images/Tutorial_1/image_3]{: class="bigger-image" }
+![Markdowm Image][{{ site.baseurl }}/assets/images/Tutorial_1/image_3]{: class="bigger-image" }
 
 Aparecerán estadísticas según la versión de Android que se utilizan en la actualidad, y nos servirá para elegir correctamente una versión de Android para nuestra aplicación. En mi caso he elegido como SDK mínimo la versión 5.0 Lollipop, ya que un 40.5% de los usuarios podría tener acceso a mi aplicación actualmente. Como espero lanzar mi aplicación en un par de meses más, encuentro que es una opción razonable para elegir.
 
