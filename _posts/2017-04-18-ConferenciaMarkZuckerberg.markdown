@@ -16,11 +16,13 @@ description: Fundador de la red social Facebook en conferencia en California, EE
 
 En este minuto se está transmitiendo en vivo un encuentro de Facebook, les dejo el enlace para que lo puedan ver. Si han llegado tarde, lo más probable es que se puede visualizar igualmente.
 
-http://tecnologia.elpais.com/tecnologia/2017/04/18/actualidad/1492534936_258359.html
+[VER CONFERENCIA](http://tecnologia.elpais.com/tecnologia/2017/04/18/actualidad/1492534936_258359.html)
 
 Mark Zuckerberg tocó temas relacionados a la realidad aumentada, que de seguro será del interés de los amantes a la tecnología.
 
-Les dejo el enlace con la noticia de lo hablado por el fundador de Facebook: http://tecnologia.elpais.com/tecnologia/2017/04/18/actualidad/1492537344_234768.html
+Les dejo el enlace con la noticia de lo hablado por el fundador de Facebook:
+
+[VER NOTICIA](http://tecnologia.elpais.com/tecnologia/2017/04/18/actualidad/1492537344_234768.html)
 
 
 ---
