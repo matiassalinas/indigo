@@ -7,6 +7,7 @@ headerImage: false
 tag:
 - Facebook
 - Mark Zuckerberg
+- Realidad Aumentada
 star: false
 category: blog
 author: matiassalinas
