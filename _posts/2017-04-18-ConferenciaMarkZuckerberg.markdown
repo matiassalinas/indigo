@@ -1,28 +1,30 @@
 ---
-title: "[En Vivo] Conferencia de Mark Zuckerberg en el encuentro de Facebook"
+title: "¿Conoces Myo?"
 layout: post
-date: 2017-04-18 19:30
+date: 2017-03-21 20:30
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- Facebook
-- Mark Zuckerberg
-- Realidad Aumentada
+- Myo
+- Dispositivos Móviles
 star: false
 category: blog
 author: matiassalinas
-description: Fundador de la red social Facebook en conferencia en California, EEUU.
+description: Brazalete capaz de recoger impulsos eléctricos de nuestro brazo
 ---
 
-En este minuto se está transmitiendo en vivo un encuentro de Facebook, les dejo el enlace para que lo puedan ver. Si han llegado tarde, lo más probable es que se puede visualizar igualmente.
+Myo es un brazalete capaz de recoger impulsos eléctricos de nuestro brazo. Este dispositivo permite realizar acciones, y controlar nuestros dispositivos a través de gestos con nuestras manos.
 
-http://tecnologia.elpais.com/tecnologia/2017/04/18/actualidad/1492534936_258359.html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oWu9TFJjHaM" frameborder="0" allowfullscreen></iframe>
 
-Mark Zuckerberg tocó temas relacionados a la realidad aumentada, que de seguro será del interés de los amantes a la tecnología.
+Existe una gran cantidad de usos que se le puede dar a este dispositivo, ya sea como manejar algun drone, mover diapositivas en alguna presentación, cambiar de canción en tu reproductor, pausar algún video, entre otras muchas cosas!
 
-Les dejo el enlace con la noticia de lo hablado por el fundador de Facebook: http://tecnologia.elpais.com/tecnologia/2017/04/18/actualidad/1492537344_234768.html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/te1RBQQlHz4" frameborder="0" allowfullscreen></iframe>
 
+Pronto comenzaré a trabajar con este dispositivo, y prometo subir algún tutorial para que conozcan como programar algo como esto.
+
+Y tú, ¿En que usarías Myo?
 
 ---
 
-<i>Fuente: [ELPAIS.COM](https://www.elpais.com/); Última vez visitado: Martes 18 de Abril, 2017</i><BR>
+<i>Fuente: [MYO.COM](https://www.myo.com/); Última vez visitado: Martes 21 de Marzo, 2017</i><BR>
