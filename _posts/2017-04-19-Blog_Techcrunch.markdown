@@ -20,6 +20,8 @@ Ha pasado mucho tiempo desde que no escribía en mi blog, ayer les comenté de l
 
 Hoy les vengo a hablar de [TechCrunch](https://techcrunch.com/), una página que he encontrado y que me ha llamado bastante la atención. Les invito a revisarla, e informarse con todas las noticias, análisis, y opiniones tecnólogicas que se pueden encontrar en este sitio web.
 
+<img class="image" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" alt="Logo">
+
 De todas las secciones que tiene este sitio, recomiendo:
 
 * [Noticias relacionadas a móviles](https://techcrunch.com/mobile/)
