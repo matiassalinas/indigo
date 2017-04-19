@@ -19,8 +19,9 @@ Hola!
 Ha pasado mucho tiempo desde que no escribía en mi blog, ayer les comenté de la conferencia de Facebook, pero pasaron un par de semanas para que volviera a retomar esta actividad. Me disculpo, estuve un poco ausente disfrutando la semana libre de semana santa, y me despreocupé de todo.
 
 Hoy les vengo a hablar de [TechCrunch](https://techcrunch.com/), una página que he encontrado y que me ha llamado bastante la atención. Les invito a revisarla, e informarse con todas las noticias, análisis, y opiniones tecnólogicas que se pueden encontrar en este sitio web.
-
+<center>
 <img class="image" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" alt="Logo">
+</center>
 
 De todas las secciones que tiene este sitio, recomiendo:
 
