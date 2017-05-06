@@ -24,11 +24,15 @@ El siguiente tutorial fue trabajado en Android Studio 2.3, utilizando el Sistema
 
 Hola! Uno de los elementos que más se utiliza en un proyecto para aplicaciones móviles son los ListView.
 
-En este tutorial les enseñaré a personalizar sus propios ListView, y cómo poder rescatar información de los items al hacerles click.
-
-El resultado al que queremos llegar es el siguiente.
-
-![Markdowm Image][3]{: class="" }
+<div class="side-by-side">
+   <div class="toleft">
+        <p>En este tutorial les enseñaré a personalizar sus propios ListView, y cómo poder rescatar información de los items al hacerles click.</p>
+        <p>El resultado al que queremos llegar es al como se muestra en la imágen al costado.</p>
+    </div>
+    <div class="toright">
+        <img class="image" src="{{ site.url }}/assets/images/Tutorial_3/image_3.png" alt="Image_3">
+    </div>
+</div>
 
 Lo primero que se debe hacer es crear un nuevo proyecto en Android Studio. En éste tutorial partimos como pantalla inicial una <i>"Empty Activity"</i>.
 
