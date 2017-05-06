@@ -28,7 +28,7 @@ En este tutorial les enseñaré a personalizar sus propios ListView, y cómo pod
 
 El resultado al que queremos llegar es el siguiente.
 
-![Markdowm Image][3]{: class="bigger-image" }
+![Markdowm Image][3]{: class="" }
 
 Lo primero que se debe hacer es crear un nuevo proyecto en Android Studio. En éste tutorial partimos como pantalla inicial una <i>"Empty Activity"</i>.
 
