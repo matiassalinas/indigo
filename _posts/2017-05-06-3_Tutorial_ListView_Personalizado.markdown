@@ -163,6 +163,8 @@ Tras todo esto, el resultado es el que he mostrado al principio de este tutorial
 
 Espero que les sirva en los proyectos que estén realizando. Cualquier duda que tengan, no duden en comentar y preguntar, aquí estaré para ayudarles.
 
+El código de éste tutorial lo puedes ver en mi github: [GITHUB](https://github.com/matiassalinas/ListView-con-ArrayAdapter#listview-con-arrayadapter)
+
 Nos vemos pronto!
 
 ---
