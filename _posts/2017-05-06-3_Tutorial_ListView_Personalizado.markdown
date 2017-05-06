@@ -71,7 +71,7 @@ Ya teniendo esto, crearemos un nuevo Layout (archivo XML). Le llamaremos <i>item
 
 ![Markdowm Image][2]{: class="bigger-image" }
 
-Ahora crearemos el <i>Adapter</i> de nuestra ListView. El Adapter, será una clase Java que extenderá a la clase ArrayAdapter para poder utilizarla en nuestra ListView. Existen otras clases a las cuales podemos extender esta clase: <i>BaseAdapter</i>, <i>ArrayAdapter</i> y <i>CursorAdapter</i>, pero para nuestro tutorial utilizaremos la segunda. Si desean saber más al respecto de estas clases, les recomiendo leer el primer comentario a esta pregunta en StackOverflow: http://stackoverflow.com/questions/16796182/whats-the-difference-between-baseadapter-and-arrayadapter
+Ahora crearemos el <i>Adapter</i> de nuestra ListView. El Adapter, será una clase Java que extenderá a la clase ArrayAdapter para poder utilizarla en nuestra ListView. Existen otras clases a las cuales podemos extender esta clase: <i>BaseAdapter</i>, <i>ArrayAdapter</i> y <i>CursorAdapter</i>, pero para nuestro tutorial utilizaremos la segunda. Si desean saber más al respecto de estas clases, les recomiendo leer el primer comentario a esta pregunta en StackOverflow: [STACKOVERFLOW](http://stackoverflow.com/questions/16796182/whats-the-difference-between-baseadapter-and-arrayadapter)
 
 En terminos generales, la funcionalidad principal de esta clase será llenar nuestro ListView con cada uno de los elementos del ArrayList que queremos utilizar, en donde cada elemento del ListView se verá según nosotros hayamos diseñado nuestro layout <i>item_listView.xml</i>.
 
