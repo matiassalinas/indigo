@@ -46,13 +46,13 @@ layout: page
         <li><strong>Business Process Management:</strong> Modelado BPMN 2.0</li>
         <li><strong>Bases de Datos:</strong> MySQL y PostgreSQL</li>
         <li><strong>Ingeniería Web:</strong> PHP, HTML, CSS, Javascript, Ajax y JQuery</li>
-        <li><strong>Programación de Dispositivos Móviles:</strong> Apache Cordova.</li>
+        <li><strong>Programación de Dispositivos Móviles:</strong> Android Studio 2.x, Apache Cordova.</li>
         <li><strong>Servicios Web:</strong> Express NodeJS</li>
-        <li><strong>Lenguajes de Programación:</strong> C, Java, Python y Julia</li>
+        <li><strong>Lenguajes de Programación:</strong> C, C++, Java, Python y Julia</li>
         <li><strong>Interacción Persona-Computador:</strong> Evaluaciones Heurísticas, Pruebas de Usabilidad, Insepcciones Semióticas y Pruebas de Comunicabilidad</li>
         <li><strong>Sistemas Operativos:</strong> Apple OSX, Ubuntu y Windows</li>
         <li><strong>Control de Versiones:</strong> Git (Github y Bitbucket)</li>
-        <li><strong>Otros:</strong> Conocimientos en Latex</li>
+        <li><strong>Otros:</strong> AIML 2.0 y Latex</li>
     </ul>
     
     <hr>
