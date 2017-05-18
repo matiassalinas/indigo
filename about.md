@@ -53,7 +53,7 @@ layout: page
         <li><strong>Sistemas de Gestión de Contenido:</strong> Drupal</li>
         <li><strong>Sistemas Operativos:</strong> Apple OSX, Ubuntu y Windows</li>
         <li><strong>Control de Versiones:</strong> Git (Github y Bitbucket)</li>
-        <li><strong>Otros:</strong> AIML 2.0 y Latex</li>
+        <li><strong>Otros:</strong> AIML 2.0 y LaTeX</li>
     </ul>
     
     <hr>
