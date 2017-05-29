@@ -279,7 +279,7 @@ Si te fijas, al momento de hacer click en el item con id "sync" (item del menú)
 
 Y con esto se concluye este cuarto tutorial. Espero que les sirva a la hora de comenzar a desarrollar con este dispositivo.
 
-El código de éste tutorial lo puedes ver en mi github: [GITHUB]()
+El código de éste tutorial lo puedes ver en mi github: [GITHUB](https://github.com/matiassalinas/tutorial_myo)
 
 
 
