@@ -1,7 +1,7 @@
 ---
 title: "Proyectos React-Native"
 layout: post
-date: 2017-02-17 22:44
+date: 2017-05-29 16:10
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
