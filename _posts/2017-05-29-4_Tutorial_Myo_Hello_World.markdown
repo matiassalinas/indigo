@@ -23,7 +23,7 @@ El siguiente tutorial fue trabajado en Android Studio 2.3.2, utilizando el Siste
 
 Hoy vengo a cumplir lo que les he prometido anteriormente, una primera aplicación básica utilizando Myo Armband. ¿No conoces Myo? Te invito a revisar el siguiente enlace: [Qué es Myo]({{ site.url }}/Myo/).
 
-Para este proyecto, utilizaremos las mismas configuraciones que se vieron en el primer tutorial de este blog: [Creado Proyectos en Android Studio]({{ site.url }}/1_Tutorial_Android_Studio/).
+Para este proyecto, utilizaremos las mismas configuraciones que se vieron en el primer tutorial de este blog: [Creando Proyectos en Android Studio]({{ site.url }}/1_Tutorial_Android_Studio/).
 
 La aplicacion que haremos para este tutorial, es la típica que se hace al comenzar a desarrollar en algo nuevo, el famoso "Hello World" o "Hola Mundo".
 
