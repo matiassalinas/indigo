@@ -29,7 +29,7 @@ La aplicacion que haremos para este tutorial, es la típica que se hace al comen
 
 Si bien Myo tiene un tutorial de esta aplicación, he decidido hacer uno propio ya que tuve una serie de problemas que lo más probable más de uno los tendrá al comenzar a desarrollar con Myo. Además, nunca está de más ayudar a los que tienen problemas con el Inglés.
 
-Bien, para comenzar, debemos descargar el (Android SDK)[https://developer.thalmic.com/start/] de la página de Thalmic.
+Bien, para comenzar, debemos descargar el [Android SDK](https://developer.thalmic.com/start/) de la página de Thalmic.
 
 ![Markdowm Image][1]{: class="bigger-image" }
 
