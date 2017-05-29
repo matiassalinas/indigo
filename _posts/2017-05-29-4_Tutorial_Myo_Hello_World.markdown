@@ -279,12 +279,20 @@ Si te fijas, al momento de hacer click en el item con id "sync" (item del menú)
 
 Y con esto se concluye este cuarto tutorial. Espero que les sirva a la hora de comenzar a desarrollar con este dispositivo.
 
+La imágen de la izquierda muestra la actividad que trae el SDK, y la imágen de la derecha muestra un ejemplo de cómo mostraría la aplicación que el Myo esta desbloqueado, y se está haciendo un puño en ese instante.
+
+<div class="side-by-side">
+   <div class="toleft">
+        <img class="image" src="{{ site.url }}/assets/images/Tutorial_4/image_6.png" alt="Image_6">
+    </div>
+    <div class="toright">
+        <img class="image" src="{{ site.url }}/assets/images/Tutorial_4/image_7.png" alt="Image_7">
+    </div>
+</div>
+
 El código de éste tutorial lo puedes ver en mi github: [GITHUB](https://github.com/matiassalinas/tutorial_myo)
 
-
-
 ---
-
 
 <i>Fuente: [DEVELOPER THALMIC ANDROID SDK](https://developer.thalmic.com/docs/api_reference/android/index.html); Última vez visitado: Lunes 29 de Mayo, 2017</i><BR>
 
