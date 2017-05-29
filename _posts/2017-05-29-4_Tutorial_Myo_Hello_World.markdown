@@ -285,6 +285,9 @@ El código de éste tutorial lo puedes ver en mi github: [GITHUB](https://github
 
 ---
 
+
+<i>Fuente: [DEVELOPER THALMIC ANDROID SDK](https://developer.thalmic.com/docs/api_reference/android/index.html); Última vez visitado: Lunes 29 de Mayo, 2017</i><BR>
+
 [1]: {{ site.url }}/assets/images/Tutorial_4/image_1.png
 [3]: {{ site.url }}/assets/images/Tutorial_4/image_3.png
 [4]: {{ site.url }}/assets/images/Tutorial_4/image_4.png
